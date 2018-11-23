@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="TextSetup:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/TextSetup_jar</output-path>
-    <root id="archive" name="TextSetup.jar">
-      <element id="module-output" name="TextSetup" />
-    </root>
-  </artifact>
-</component>
